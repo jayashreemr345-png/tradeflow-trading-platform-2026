@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables / API keys
+.env
+.env.*
+
+# Java compiled files and build output
+*.class
+backend-java/target/
+
+# Frontend build output
+dist/
+
+# IDE files
+.vscode/
+.ide/
